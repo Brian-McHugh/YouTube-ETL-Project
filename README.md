@@ -16,3 +16,7 @@ The data also includes a category_id field, which varies between regions.
 ## Objective
 
 Join these datasets into one North American database for review and analysis.
+
+## Acknowledgements
+
+These datasets were generated using the YouTube API, compliments of Mitchell Jolly: https://www.kaggle.com/datasnaek/youtube-new
