@@ -1,2 +1,0 @@
-user = "postgres"
-pw = "changeme"
